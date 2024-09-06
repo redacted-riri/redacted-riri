@@ -1,8 +1,8 @@
 # @redacted-riri's Dev Profile
 ## Personal Information
 - 😄 Pronouns: she/her
-- 🌱 I am a budding software developer trying my hand at many things for the first time.
-- 📖 I’m currently in my second year being an electrical and computer engineering student!
+- 🌱 I'm an experimentalist trying my hand at many things for the first time.
+- 📖 I’m currently in my third year being an electrical and computer engineering student!
 - 🤖 I'm on the OSU Lunabotics Electrical team + exec board and happily enjoy working on the electronics involved there!
 - ✨ I lack a coherent theme in what my programming interests are right now
 - ⚡ Fun fact: I'm a huge D&D fan 🎲
