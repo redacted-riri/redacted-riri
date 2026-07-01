@@ -17,6 +17,7 @@ Thanks for stopping by!
 - 🌱 I'm an experimentalist trying my hand at many things for the first time
 - ⚡ Fun fact: I'm a huge D&D fan! 🎲
 - 🤓 "I use arch btw"
+- 📆 365 day Wordle streak ongoing!
 
 ### Most Used Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
@@ -42,8 +43,8 @@ Thanks for stopping by!
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=redacted-riri&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redacted-riri&layout=donut&theme=tokyonight&show_icons=true&langs_count=5" />
+  <img src="https://github-stats-extended.vercel.app/api?username=redacted-riri&show_icons=true&theme=tokyonight" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=redacted-riri&layout=donut&theme=tokyonight&show_icons=true&langs_count=5" />
 </p>
 <!---[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=redacted-riri&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
